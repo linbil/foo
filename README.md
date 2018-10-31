@@ -1,3 +1,3 @@
-# foo
-A tiny software security assessment
+# Foo
+A tiny software security assessment  
 Linux application penetration testing
