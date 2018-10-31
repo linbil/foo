@@ -1,3 +1,7 @@
-# Foo
+# Foo\
+Linux application penetration testing\
 A tiny software security assessment.  
-Linux application penetration testing
+\
+We'd like you to prepare a short report for us that describes\
+the vulnerabilities of the attached application.\
+This application is installed as SUID root.
