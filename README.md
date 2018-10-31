@@ -1,4 +1,4 @@
-# Foo\
+# Foo
 Linux application penetration testing\
 A tiny software security assessment.  
 \
