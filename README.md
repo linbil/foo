@@ -1,7 +1,7 @@
 # Foo
 Linux application penetration testing\
-A tiny software security assessment.  
+My first tiny software security assessment followed by my first report  
 \
-We'd like you to prepare a short report for us that describes\
+"We'd like you to prepare a short report for us that describes\
 the vulnerabilities of the attached application.\
-This application is installed as SUID root.
+This application is installed as SUID root."\
